@@ -76,7 +76,7 @@ class ApplicationConstants {
 }
 ```
 
-> Burada normal bir tanımlama yaparken [magic number](https://help.semmle.com/wiki/display/JAVA/Magic+numbers#:~:text=A%20magic%20number%20is%20a,for%20other%20programmers%20to%20understand.) mantığını uyguluyorum ama diyelim ki proje hayatında sıklıkça kullanacağım bir değer var bunuda [lazy veya eager singleton](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples) deseni ile sarmalıyorum.
+> Burada normal bir tanımlama yaparken [magic number](https://help.semmle.com/wiki/display/JAVA/Magic+numbers#:~:text=A%20magic%20number%20is%20a,for%20other%20programmers%20to%20understand.) mantığını uyguluyorum ama diyelim ki proje hayatında sıklıkla kullanacağım bir değer var bunuda [lazy veya eager singleton](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples) deseni ile sarmalıyorum.
 
 ##### Yükleme Alanı(Init)
 
